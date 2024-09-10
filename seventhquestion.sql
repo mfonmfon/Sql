@@ -1,0 +1,2 @@
+SELECT sum(OrderTotal) AS OrderSum
+FROM RETAIL_ORDER 
